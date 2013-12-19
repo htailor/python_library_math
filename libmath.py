@@ -21,15 +21,15 @@ def inverse(x_):
 
 def squared(x_):
 
-    return x_*x_
+    return x_**2
 
 def cubed(x_):
 
-    return x_*x_*x_
+    return x_**3
 
 def cubed_root(x_):
 
-    return pow(x_,third)
+    return x_**third
 
 
 def sgn(x_):
@@ -47,7 +47,7 @@ def binomial(n_, k_):
 
 def double_binomial(n_, k1_, k2_):
 
-    return Binomial(n_,k1_)*Binomial(n_,k2_)
+    return binomial(n_,k1_)*binomial(n_,k2_)
 
 def multinomial(*klist):
 
