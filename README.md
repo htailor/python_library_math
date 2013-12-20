@@ -37,7 +37,7 @@ Constants
     <td>quarter</td><td>1/4</td>
   </tr>
   <tr>
-    <td>root_pi</td><td><img src="http://latex.codecogs.com/gif.latex?\sqrt(\pi)" border="0"/></td>
+    <td>root_pi</td><td><img src="http://latex.codecogs.com/gif.latex?\sqrt\pi" border="0"/></td>
   </tr>
   
   
