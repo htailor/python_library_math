@@ -34,8 +34,8 @@ Functions
 
 Function | Equation
 ---------:|:--------:
-`inverse(x)` | <img src="http://latex.codecogs.com/gif.latex?\frac{1}{x}" border="0"/>
+`inverse(x)` | <img src="http://latex.codecogs.com/gif.latex?1/x" border="0"/>
 `squared(x)` | <img src="http://latex.codecogs.com/gif.latex?x^2" border="0"/>
 `cubed(x)`  | <img src="http://latex.codecogs.com/gif.latex?x^3" border="0"/>
 `cubed_root(x)` | <img src="http://latex.codecogs.com/gif.latex?x^\frac{1}{3}" border="0"/>
-`sgn(x)` | <img src="http://latex.codecogs.com/gif.latex?\frac{x}{|x|}" border="0"/>
+`sgn(x)` | <img src="http://latex.codecogs.com/gif.latex?x/|x|" border="0"/>
