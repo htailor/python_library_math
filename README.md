@@ -32,7 +32,7 @@ Constant   | Value
 Functions
 ---------
 
-Function|
+Functions|
 :---------:|
 `inverse(x)`|
 `squared(x)`|
