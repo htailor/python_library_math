@@ -5,7 +5,7 @@ Python Math Library
 General Information
 -------------------
 
-Portable library of additional math functions and useful constants written for the Extendable Freely Jointed Chain projects. Inspiration was taken from BOOST C++ numeric constants. The library inherits math functions from python.
+Portable library of additional math functions and useful constants written for the Extendable Freely Jointed Chain project. Inspiration was taken from BOOST C++ numeric constants. The library inherits math functions from python.
 
 
 Installation
@@ -32,10 +32,16 @@ Constant   | Value
 Functions
 ---------
 
-Function | Equation
----------:|:--------:
-`inverse(x)` | <img src="http://latex.codecogs.com/gif.latex?1/x" border="0"/>
-`squared(x)` | <img src="http://latex.codecogs.com/gif.latex?x^2" border="0"/>
-`cubed(x)`  | <img src="http://latex.codecogs.com/gif.latex?x^3" border="0"/>
-`cubed_root(x)` | <img src="http://latex.codecogs.com/gif.latex?x^\frac{1}{3}" border="0"/>
-`sgn(x)` | <img src="http://latex.codecogs.com/gif.latex?\text{sgn}(x)" border="0"/>
+Function
+:---------:
+`inverse(x)`
+`squared(x)`
+`cubed(x)`  
+`cubed_root(x)`
+`sgn(x)`
+`heaviside_step(x)`
+`binomial(n,k)`
+`double_binomial(n,k1,k2)`
+`multinomial(*k)`
+`factorial_approx(n)`
+
