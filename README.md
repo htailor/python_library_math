@@ -38,4 +38,4 @@ Function | Equation
 `squared(x)` | <img src="http://latex.codecogs.com/gif.latex?x^2" border="0"/>
 `cubed(x)`  | <img src="http://latex.codecogs.com/gif.latex?x^3" border="0"/>
 `cubed_root(x)` | <img src="http://latex.codecogs.com/gif.latex?x^\frac{1}{3}" border="0"/>
-`sgn(x)` | <img src="http://latex.codecogs.com/gif.latex?\text{sgn}(x)" border="0"/>
+`sgn(x)` | <img src="http://latex.codecogs.com/gif.latex?\text{|}x\text{|}" border="0"/>
