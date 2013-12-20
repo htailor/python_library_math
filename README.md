@@ -48,7 +48,7 @@ Functions
   <tr>
     <th>Function</th><th>Equation</th>
   </tr>
-  <tr>
+  <tr align="center">
     <td>inverse(x)</td><td><img src="http://latex.codecogs.com/svg.latex?\frac{1}{x}" border="0"/></td>
   </tr>
   <tr>
