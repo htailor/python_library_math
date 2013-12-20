@@ -22,11 +22,11 @@ Constants
 
 Constant | Value |
 ---------|:-----:| 
-half     | 1/2  |
-third    | 1/3 |
-twothirds| 2/3 |
-quarter  | 1/4 |
-root_pi  | <img src="http://latex.codecogs.com/svg.latex?\sqrt\pi" border="0"/> |
+`half`     | 1/2  |
+`third`    | 1/3 |
+`twothirds`| 2/3 |
+`quarter`  | 1/4 |
+`root_pi`  | <img src="http://latex.codecogs.com/svg.latex?\sqrt\pi" border="0"/> |
 
 
 Functions
