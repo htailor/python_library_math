@@ -32,16 +32,16 @@ Constant   | Value
 Functions
 ---------
 
-Function
-:---------:
-`inverse(x)`
-`squared(x)`
-`cubed(x)`  
-`cubed_root(x)`
-`sgn(x)`
-`heaviside_step(x)`
-`binomial(n,k)`
-`double_binomial(n,k1,k2)`
-`multinomial(*k)`
-`factorial_approx(n)`
+Function|
+:---------:|
+`inverse(x)`|
+`squared(x)`|
+`cubed(x)`  |
+`cubed_root(x)`|
+`sgn(x)`|
+`heaviside_step(x)`|
+`binomial(n,k)`|
+`double_binomial(n,k1,k2)`|
+`multinomial(*k)`|
+`factorial_approx(n)`|
 
