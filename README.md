@@ -17,6 +17,9 @@ Place `libmath.py` in the current working directory of your project and import f
 from libmath import *
 ```
 
+<script type="text/javascript" src="http://latex.codecogs.com/latexit.js"></script>
+
+
 Constants
 ---------
 
@@ -37,10 +40,30 @@ Constants
     <td>quarter</td><td>1/4</td>
   </tr>
   <tr>
-    <td>root_pi</td><td><img src="http://latex.codecogs.com/gif.latex?\sqrt\pi" border="0"/></td>
+    <td>root_pi</td><td><div lang="latex">\sqrt\pi</div></td>
   </tr>
-  
-  
-  
-  
+</table>
+
+Functions
+---------
+
+<table>
+  <tr>
+    <th>Function</th><th>Equation</th>
+  </tr>
+  <tr>
+    <td>inverse(x)</td><td></td>
+  </tr>
+  <tr>
+    <td>squared</td><td>1/3</td>
+  </tr>
+  <tr>
+    <td>cubed</td><td>2/3</td>
+  </tr>
+  <tr>
+    <td>cubed_root</td><td>1/4</td>
+  </tr>
+  <tr>
+    <td>sqn(x)</td><td></td>
+  </tr>
 </table>
