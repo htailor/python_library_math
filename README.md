@@ -20,26 +20,14 @@ from libmath import *
 Constants
 ---------
 
-<table align="center">
-  <tr>
-    <th>Constant</th><th>Value</th>
-  </tr>
-  <tr>
-    <td>half</td><td>1/2</td>
-  </tr>
-  <tr>
-    <td>third</td><td>1/3</td>
-  </tr>
-  <tr>
-    <td>twothirds</td><td>2/3</td>
-  </tr>
-  <tr>
-    <td>quarter</td><td>1/4</td>
-  </tr>
-  <tr>
-    <td>root_pi</td><td><img src="http://latex.codecogs.com/svg.latex?\sqrt\pi" border="0"/></td>
-  </tr>
-</table>
+Constant | Value |
+---------|:-----:| 
+half     | 1/2  |
+third    | 1/3 |
+twothirds| 2/3 |
+quarter  | 1/4 |
+root_pi  | <img src="http://latex.codecogs.com/svg.latex?\sqrt\pi" border="0"/> |
+
 
 Functions
 ---------
