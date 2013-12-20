@@ -16,9 +16,9 @@ Place `libmath.py` in the current working directory of your project and import f
 ```python
 from libmath import *
 ```
-
+<head>
 <script type="text/javascript" src="http://latex.codecogs.com/latexit.js"></script>
-
+</head>
 
 Constants
 ---------
