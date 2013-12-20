@@ -49,18 +49,18 @@ Functions
     <th>Function</th><th>Equation</th>
   </tr>
   <tr>
-    <td>inverse(x)</td><td></td>
+    <td>inverse(x)</td><td><img src="http://latex.codecogs.com/svg.latex?\frac{1}{x}" border="0"/></td>
   </tr>
   <tr>
-    <td>squared</td><td>1/3</td>
+    <td>squared</td><td><img src="http://latex.codecogs.com/svg.latex?x^2" border="0"/></td>
   </tr>
   <tr>
-    <td>cubed</td><td>2/3</td>
+    <td>cubed</td><td><img src="http://latex.codecogs.com/svg.latex?x^3" border="0"/></td>
   </tr>
   <tr>
-    <td>cubed_root</td><td>1/4</td>
+    <td>cubed_root</td><td><img src="http://latex.codecogs.com/svg.latex?x^\frac{1}{3}" border="0"/></td>
   </tr>
   <tr>
-    <td>sqn(x)</td><td></td>
+    <td>sqn(x)</td><td><img src="http://latex.codecogs.com/svg.latex?\frac{x}{|x|}" border="0"/></td>
   </tr>
 </table>
