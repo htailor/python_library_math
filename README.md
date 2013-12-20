@@ -11,9 +11,9 @@ Portable library of additional math functions and useful constants needed for th
 Installation
 ------------
 
-Place libmath.py in current working directory and import functions by normal methods. 
+Place `libmath.py` in current working directory and import functions by normal methods. 
 
-'''python
+```python
 from libmath import *
-'''
+```
 
