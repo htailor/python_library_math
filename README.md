@@ -44,7 +44,7 @@ Constants
 Functions
 ---------
 
-<table>
+<table align="center">
   <tr>
     <th>Function</th><th>Equation</th>
   </tr>
@@ -52,13 +52,13 @@ Functions
     <td>inverse(x)</td><td><img src="http://latex.codecogs.com/svg.latex?\frac{1}{x}" border="0"/></td>
   </tr>
   <tr>
-    <td>squared</td><td><img src="http://latex.codecogs.com/svg.latex?x^2" border="0"/></td>
+    <td>squared(x)</td><td><img src="http://latex.codecogs.com/svg.latex?x^2" border="0"/></td>
   </tr>
   <tr>
-    <td>cubed</td><td><img src="http://latex.codecogs.com/svg.latex?x^3" border="0"/></td>
+    <td>cubed(x)</td><td><img src="http://latex.codecogs.com/svg.latex?x^3" border="0"/></td>
   </tr>
   <tr>
-    <td>cubed_root</td><td><img src="http://latex.codecogs.com/svg.latex?x^\frac{1}{3}" border="0"/></td>
+    <td>cubed_root(x)</td><td><img src="http://latex.codecogs.com/svg.latex?x^\frac{1}{3}" border="0"/></td>
   </tr>
   <tr>
     <td>sqn(x)</td><td><img src="http://latex.codecogs.com/svg.latex?\frac{x}{|x|}" border="0"/></td>
