@@ -20,7 +20,7 @@ from libmath import *
 Constants
 ---------
 
-<table>
+<table align="center">
   <tr>
     <th>Constant</th><th>Value</th>
   </tr>
@@ -48,19 +48,19 @@ Functions
   <tr>
     <th>Function</th><th>Equation</th>
   </tr>
-  <tr align="center">
+  <tr>
     <td>inverse(x)</td><td><img src="http://latex.codecogs.com/svg.latex?\frac{1}{x}" border="0"/></td>
   </tr>
-  <tr align="center">
+  <tr>
     <td>squared(x)</td><td><img src="http://latex.codecogs.com/svg.latex?x^2" border="0"/></td>
   </tr>
-  <tr align="center">
+  <tr>
     <td>cubed(x)</td><td><img src="http://latex.codecogs.com/svg.latex?x^3" border="0"/></td>
   </tr>
-  <tr align="center">
+  <tr>
     <td>cubed_root(x)</td><td><img src="http://latex.codecogs.com/svg.latex?x^\frac{1}{3}" border="0"/></td>
   </tr>
-  <tr align="center">
+  <tr>
     <td>sqn(x)</td><td><img src="http://latex.codecogs.com/svg.latex?\frac{x}{|x|}" border="0"/></td>
   </tr>
 </table>
