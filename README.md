@@ -16,9 +16,6 @@ Place `libmath.py` in the current working directory of your project and import f
 ```python
 from libmath import *
 ```
-<head>
-<script type="text/javascript" src="http://latex.codecogs.com/latexit.js"></script>
-</head>
 
 Constants
 ---------
@@ -40,7 +37,7 @@ Constants
     <td>quarter</td><td>1/4</td>
   </tr>
   <tr>
-    <td>root_pi</td><td><div lang="latex">\sqrt\pi</div></td>
+    <td>root_pi</td><td><img src="http://latex.codecogs.com/svg.latex?\sqrt\pi" border="0"/></td>
   </tr>
 </table>
 
