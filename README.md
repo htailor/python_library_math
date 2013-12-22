@@ -5,7 +5,7 @@ Python Math Library
 General Information
 -------------------
 
-Portable library of additional math functions and useful constants written for the Extendable Freely Jointed Chain project. Inspiration was taken from BOOST C++ numeric constants. The library inherits math functions from python.
+Portable library of additional math functions and useful constants written for the Extendable Freely Jointed Chain project. Inspiration was taken from BOOST C++ numeric constants. The library inherits the normal math functions from python.
 
 
 Installation
